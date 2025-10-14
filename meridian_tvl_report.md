@@ -47,13 +47,13 @@ Base represents Meridian's earliest deployment and provided valuable learnings t
 
 ### Meter - Peak: $299,295 (March 2024)
 **Launch:** March 2024
-**Incentive Strategy:** No incentives
+**Incentive Strategy:** 1-month incentives program
 
-Meter demonstrated strong organic community interest at launch:
+Meter demonstrated rapid initial growth with short-term incentives:
 - Reached $250k TVL on launch day (March 23, 2024)
 - Peaked at $299k just 2 days later (March 25, 2024)
 
-This deployment showcases Meridian's ability to generate initial organic interest, while highlighting the role of sustained incentives in maintaining longer-term liquidity.
+Similar to Taiko and Fuse, Meter's short-term incentive approach generated strong initial traction. The deployment reinforces insights about the relationship between incentive duration and sustained liquidity maintenance.
 
 ### Fuse - Peak: $230,363 (March 2024)
 **Launch:** February 2024
@@ -77,19 +77,21 @@ This deployment provided valuable insights into the relationship between incenti
 
 5. **Clear Learnings Inform Future Strategy:** The comparative data across deployment types provides clear evidence for optimizing future launches, with sustained incentive programs showing significantly better performance in maintaining liquidity over time.
 
-## Recommendations
+## Recommendations for Kadena Launch
 
-Based on this analysis:
+Based on learnings from six chain deployments:
 
-1. **Scale Proven Long-Duration Model:** Replicate Telos's successful 2-year sustained incentive approach on new chain deployments. This model has demonstrated the ability to build and maintain substantial liquidity ($382k current TVL representing 90.7% of protocol total).
+1. **Implement Long-Duration Incentive Program:** Design a sustained incentive program (18-24 months minimum) for the Kadena launch, mirroring the Telos approach. Telos's 2-year program has maintained $382k TVL (90.7% of protocol total), demonstrating the effectiveness of extended commitment in building stable liquidity.
 
-2. **Target High-Quality Liquidity:** Design incentive programs that prioritize long-term capital over rapid TVL spikes. Focus on user retention metrics and sustainable growth rather than peak TVL milestones.
+2. **Structure for Quality Over Quantity:** Co-design the Kadena incentive program to prioritize long-term participants over short-term liquidity hunters. Consider vesting schedules, loyalty multipliers, or time-locked rewards to filter for committed capital rather than optimizing for peak TVL metrics.
 
-3. **Leverage Multi-Chain Learnings:** The comparative performance data across six chains provides valuable insights for optimizing launch strategies. Use this data to refine incentive structure, duration, and deployment timing for future chains.
+3. **Set Realistic Growth Expectations:** While rapid bootstrapping is achievable (Taiko reached $1M+ in 7 days, Meter hit $250k on day one), sustainable liquidity requires extended incentive alignment. Plan for multi-phase growth rather than front-loaded launch hype.
 
-4. **Focus Resources on Highest-Performing Deployments:** With Telos representing 90.7% of protocol TVL, consider concentrating development resources and liquidity incentives on proven successful deployments to maximize protocol growth and stability.
+4. **Allocate Sufficient Resources:** Short-term programs (1-3 months) on Taiko, Meter, and Fuse showed limited sustained impact despite successful launches. For Kadena, ensure incentive budget is sized for long-duration deployment to maximize return on investment.
 
-5. **Build on Demonstrated Strengths:** Meridian has proven ability to bootstrap liquidity quickly across multiple chains. Future deployments should combine this rapid launch capability with long-duration incentive programs to convert initial interest into sustained liquidity.
+5. **Establish Clear Success Metrics:** Define success beyond peak TVL. Focus on metrics like liquidity retention over time, borrowing activity levels, user retention rates, and capital efficiency. These indicators better predict long-term deployment health than initial TVL spikes.
+
+6. **Build in Program Flexibility:** Design the Kadena incentive structure with the ability to adjust parameters based on market conditions and competitive dynamics, while maintaining the core commitment to long-duration support.
 
 ---
 
