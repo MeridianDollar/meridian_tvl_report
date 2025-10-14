@@ -36,7 +36,7 @@ This deployment illustrates the impact of short-term incentive programs in gener
 
 ### Base - Peak: $524,951 (December 2024)
 **Launch:** August 2023 (Meridian's first chain)
-**Incentive Strategy:** Unknown (legacy deployment)
+**Incentive Strategy:** MST token Emissions for 1 year
 
 As Meridian's original deployment on Base:
 - Reached $250k milestone in December 2023
