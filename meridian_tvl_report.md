@@ -77,21 +77,21 @@ This deployment provided valuable insights into the relationship between incenti
 
 5. **Clear Learnings Inform Future Strategy:** The comparative data across deployment types provides clear evidence for optimizing future launches, with sustained incentive programs showing significantly better performance in maintaining liquidity over time.
 
-## Recommendations for Kadena Launch
+## Strategy for Kadena Launch
 
-Based on learnings from six chain deployments:
+Based on learnings from our six chain deployments:
 
-1. **Implement Long-Duration Incentive Program:** Design a sustained incentive program (18-24 months minimum) for the Kadena launch, mirroring the Telos approach. Telos's 2-year program has maintained $382k TVL (90.7% of protocol total), demonstrating the effectiveness of extended commitment in building stable liquidity.
+1. **Long-Duration Incentive Program:** We will implement a sustained incentive program (18-24 months minimum) for Kadena, mirroring our successful Telos approach. Our Telos 2-year program has maintained $382k TVL (90.7% of protocol total), demonstrating the effectiveness of extended commitment in building stable liquidity.
 
-2. **Structure for Quality Over Quantity:** Co-design the Kadena incentive program to prioritize long-term participants over short-term liquidity hunters. Consider vesting schedules, loyalty multipliers, or time-locked rewards to filter for committed capital rather than optimizing for peak TVL metrics.
+2. **Quality Over Quantity Focus:** We are co-designing the Kadena incentive program to prioritize long-term participants over short-term liquidity hunters. We will incorporate vesting schedules, loyalty multipliers, or time-locked rewards to attract committed capital rather than optimizing for peak TVL metrics.
 
-3. **Set Realistic Growth Expectations:** While rapid bootstrapping is achievable (Taiko reached $1M+ in 7 days, Meter hit $250k on day one), sustainable liquidity requires extended incentive alignment. Plan for multi-phase growth rather than front-loaded launch hype.
+3. **Realistic Growth Expectations:** While we've demonstrated ability to bootstrap rapidly (Taiko reached $1M+ in 7 days, Meter hit $250k on day one), we recognize that sustainable liquidity requires extended incentive alignment. We're planning for multi-phase growth rather than front-loaded launch hype.
 
-4. **Allocate Sufficient Resources:** Short-term programs (1-3 months) on Taiko, Meter, and Fuse showed limited sustained impact despite successful launches. For Kadena, ensure incentive budget is sized for long-duration deployment to maximize return on investment.
+4. **Sufficient Resource Allocation:** Our short-term programs (1-3 months) on Taiko, Meter, and Fuse showed limited sustained impact despite successful launches. For Kadena, we're ensuring our incentive budget is sized for long-duration deployment to maximize return on investment.
 
-5. **Establish Clear Success Metrics:** Define success beyond peak TVL. Focus on metrics like liquidity retention over time, borrowing activity levels, user retention rates, and capital efficiency. These indicators better predict long-term deployment health than initial TVL spikes.
+5. **Clear Success Metrics:** We're defining success beyond peak TVL, focusing on metrics like liquidity retention over time, borrowing activity levels, user retention rates, and capital efficiency. These indicators better predict long-term deployment health than initial TVL spikes.
 
-6. **Build in Program Flexibility:** Design the Kadena incentive structure with the ability to adjust parameters based on market conditions and competitive dynamics, while maintaining the core commitment to long-duration support.
+6. **Built-in Program Flexibility:** We're designing the Kadena incentive structure with the ability to adjust parameters based on market conditions and competitive dynamics, while maintaining our core commitment to long-duration support.
 
 ---
 
