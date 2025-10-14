@@ -27,25 +27,20 @@ The sustained incentives program on Telos has proven highly effective, creating 
 ### Taiko - Peak: $1,270,044 (September 2024)
 **Launch:** August 2024
 **Incentive Strategy:** 1-month program with $30k in incentives
-**Current TVL:** $10,379
 
 Taiko demonstrated rapid initial growth with short-term incentives:
 - Reached $1M TVL within 7 days of launch (August 27, 2024)
 - Peaked at $1.27M on September 2, 2024
-- Currently maintains $10,379 TVL
-- $4,888 in borrowed assets
 
 This deployment illustrates the impact of short-term incentive programs in generating initial liquidity. The data suggests that longer incentive durations may be necessary to build more sustained liquidity bases.
 
 ### Base - Peak: $524,951 (December 2024)
 **Launch:** August 2023 (Meridian's first chain)
 **Incentive Strategy:** Unknown (legacy deployment)
-**Current TVL:** $5,995
 
 As Meridian's original deployment on Base:
 - Reached $250k milestone in December 2023
 - Peaked at $525k in December 2024 (16 months after launch)
-- Currently maintains $5,995 TVL
 - Served as the initial proof of concept for the protocol
 
 Base represents Meridian's earliest deployment and provided valuable learnings that informed subsequent chain strategies, particularly the successful Telos deployment.
@@ -53,26 +48,20 @@ Base represents Meridian's earliest deployment and provided valuable learnings t
 ### Meter - Peak: $299,295 (March 2024)
 **Launch:** March 2024
 **Incentive Strategy:** No incentives
-**Current TVL:** $6,100
 
 Meter demonstrated strong organic community interest at launch:
 - Reached $250k TVL on launch day (March 23, 2024)
 - Peaked at $299k just 2 days later (March 25, 2024)
-- Currently maintains $6,100 TVL
-- $2,440 in borrowed assets
 
 This deployment showcases Meridian's ability to generate initial organic interest, while highlighting the role of sustained incentives in maintaining longer-term liquidity.
 
 ### Fuse - Peak: $230,363 (March 2024)
 **Launch:** February 2024
 **Incentive Strategy:** Short incentives program
-**Current TVL:** $3,499
 
 Fuse demonstrated the impact of short-term incentives:
 - Reached $100k milestone within 24 hours of launch
 - Peaked at $230k on March 14, 2024 (roughly 3 weeks after launch)
-- Currently maintains $3,499 TVL
-- $514 in borrowed assets
 
 This deployment provided valuable insights into the relationship between incentive duration and sustained liquidity, informing the protocol's approach to future deployments.
 
